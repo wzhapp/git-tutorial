@@ -1,2 +1,2 @@
-change dev branch
-add more to file1
+new content in master
+change dev branch, add more to file1
