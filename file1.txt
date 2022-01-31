@@ -1,2 +1,5 @@
+solve conflect
 new content in master
 change dev branch, add more to file1
+add more to file1
+more content in dev branch
